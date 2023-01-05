@@ -9,5 +9,9 @@ Un repo de aprendizaje [Curso de Git y github](https://platzi.com/cursos/git-git
 * El flujo de trabajo en Github
 * Amor por las buenas prácticas
 * Truquillos
+* Aqui van los creditos para platzi 
+* Incluye ejemplos en windows, linux y Mac
+
+
 
 Y como amable recordatorio **Este README.md es un chiste**. Diseñado para el ejemplo, no lo tomes en serio
