@@ -12,6 +12,7 @@ Un repo de aprendizaje [Curso de Git y github](https://platzi.com/cursos/git-git
 * Aqui van los creditos para platzi 
 * Incluye ejemplos en windows, linux y Mac
 * Para todas las edades
+* Para todas las edades Disponible para todas las edades diverso y tractivo para todos
 
 
 Y como amable recordatorio **Este README.md es un chiste**. Diseñado para el ejemplo, no lo tomes en serio
